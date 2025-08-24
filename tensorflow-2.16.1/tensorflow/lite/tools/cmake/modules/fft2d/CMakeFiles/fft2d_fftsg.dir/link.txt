@@ -1,2 +1,0 @@
-/usr/bin/ar qc libfft2d_fftsg.a  CMakeFiles/fft2d_fftsg.dir/home/dfadmin/projects/fft2d/OouraFFT-1.0/fftsg.o
-/usr/bin/ranlib libfft2d_fftsg.a

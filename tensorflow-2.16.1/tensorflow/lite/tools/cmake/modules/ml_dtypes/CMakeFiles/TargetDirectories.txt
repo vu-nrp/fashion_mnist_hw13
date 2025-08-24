@@ -1,2 +1,0 @@
-/home/dfadmin/projects/tensorflow-2.16.1/tensorflow/lite/tools/cmake/modules/ml_dtypes/CMakeFiles/rebuild_cache.dir
-/home/dfadmin/projects/tensorflow-2.16.1/tensorflow/lite/tools/cmake/modules/ml_dtypes/CMakeFiles/edit_cache.dir

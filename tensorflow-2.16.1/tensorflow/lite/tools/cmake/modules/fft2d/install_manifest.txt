@@ -1,2 +1,0 @@
-/usr/local/lib/libfft2d_fftsg.a
-/usr/local/lib/libfft2d_fftsg2d.a

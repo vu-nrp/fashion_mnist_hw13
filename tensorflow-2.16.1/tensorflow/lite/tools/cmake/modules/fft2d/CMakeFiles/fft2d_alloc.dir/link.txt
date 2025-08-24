@@ -1,2 +1,0 @@
-/usr/bin/ar qc libfft2d_alloc.a  CMakeFiles/fft2d_alloc.dir/home/dfadmin/projects/fft2d/OouraFFT-1.0/alloc.o
-/usr/bin/ranlib libfft2d_alloc.a
