@@ -22,7 +22,7 @@ set_target_properties(${PROJECT_NAME} PROPERTIES
     CXX_STANDARD_REQUIRED ON
 )
 
-#
+# forming deb package
 install(FILES test/test.csv DESTINATION test ${CMAKE_INSTALL_BINDIR})
 install(FILES model/logreg_coef.txt DESTINATION model ${CMAKE_INSTALL_BINDIR})
 install(TARGETS ${PROJECT_NAME} RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR})
