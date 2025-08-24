@@ -29,9 +29,6 @@ jobs:
       - run: cmake --build .
 #      - run: cmake --build . --target test
       - run: cmake --build . --target package
-#      # Run Google Tests
-#      - name: 'Run GTest'
-#        run: /home/runner/work/fashion_mnist_hw13/fashion_mnist_hw13/fashion_mnist_test2
       # Setup Pages
       - name: 'Setup Pages'
         uses: actions/configure-pages@v4
